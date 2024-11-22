@@ -1,0 +1,22 @@
+Add demo code 
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Fri Nov 22 20:02:37 2024 +0530
+#
+# On branch main
+# Changes to be committed:
+#	new file:   .vscode/settings.json
+#	new file:   app/dashboard/customers/page.tsx
+#	new file:   app/dashboard/invoices/page.tsx
+#	new file:   app/dashboard/layout.tsx
+#	new file:   app/dashboard/page.tsx
+#	new file:   app/dashboard/settings/page.tsx
+#	modified:   app/layout.tsx
+#	modified:   app/page.tsx
+#	modified:   app/ui/dashboard/nav-links.tsx
+#	modified:   app/ui/dashboard/sidenav.tsx
+#	new file:   app/ui/fonts.ts
+#	new file:   app/ui/home.module.css
+#
